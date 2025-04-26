@@ -1,0 +1,42 @@
+back/lay ?
+example match :- IND vs AUS
+match odds/rating :
+ __________________________
+|IND | 1.80 back | 1.82 lay|
+|AUS | 2.24 back | 2.28 lay|
+
+back example :
+person A : bet 20k back @india (he wants to win india)
+	if IND wins 16k profit
+	if AUS wins 20k loss
+
+lay example:
+person B : bet 20k lay @india(he wants to win Australia) 
+	if IND wins 16440 loss
+	if AUS wins 20k profit
+
+
+losscut ?
+it means ninge loss agalla nin team gelli solri ninge loss agode illa ✌️
+bookset ?
+both side profit it means yavde team gelli nimge profit barutte 😎
+
+losscut example :
+india rate : 90 back | 92 lay
+person a : bet 50k back (he wants to win india)
+	if IND wins 48k profit
+	if AUS wins 50k loss
+now india rate : 20 back | 22 lay
+	bet 50k lay(he thinks aus will win) ((idu 48k profit inda minus agutte))
+	if IND wins 34k profit
+	if AUS wins no LOSS no PROFIT
+	LOSSCUT done 👍
+
+bookset example :
+losscut admelene bookset agodu illa andre agalla
+india rate : 20 back | 22 lay
+	bet 20k lay (idu profit 34k inda cut agutte)
+	if IND wins 29600 profit
+	if AUS wins 20k profit
+	BOOKSET done 😎
+ivaga yare gelli namge money barutte 😅
